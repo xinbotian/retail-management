@@ -1,0 +1,10 @@
+Please enter a number:
+1: Load pending orders.
+2: View product location.
+3: View per unit cost of a product.
+4: View current price of a product.
+5: View price history of a product.
+6: Add information to memo.
+7: View memo for receiver.
+8: Receive new product.
+*: Logout.

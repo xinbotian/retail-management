@@ -1,0 +1,8 @@
+Please enter a number:
+1: Modify location.
+2: Check Quantity.
+3: View product order history by upc.
+4: View product order history by order number.
+5: Add information to memo.
+6: View memo for reshelver.
+*: Logout.

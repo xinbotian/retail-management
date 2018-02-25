@@ -1,0 +1,23 @@
+Please enter a number:
+1: View pending orders.
+2: View profit, revenue, cost of particular date.
+3: View price history of a product.
+4: View a list of all product in store.
+5: View a list of all on sale product.
+6: Put a product on sale.
+7: Take a product off sale.
+8: Change product sale period.
+9: Change product sale price.
+10: Change threshold.
+11: Change product price.
+12: View product information.
+13: View product order history by order number.
+14: View product order history by upc.
+15: View a list of all employees.
+16: Add information to memo.
+17: View memos of Users.
+18: Create an order.
+19: Hire a new employee.
+20: Fire a employee.
+21: Remove a product from Inventory's stock
+*: Logout.

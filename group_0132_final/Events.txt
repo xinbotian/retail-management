@@ -1,0 +1,39 @@
+Load In Inventory Products . . . . . .
+Login Cashier 1001 . . . . . .
+Cashier Sell Product 1000000005 quantity 4 . . . (Will successfuly sell product) . . . .
+Cashier Sell Product 1000000019 quantity 5 . . . (This is an invalid upc) . . . . . . . .
+Cashier Sell Product 1000000010 quantity 19 . . . (Tries to sell a product with low stock) . .
+Cashier Sell Product 1000000010 quantity 4 . . . (Order was made and recieved for Dog food. Is now back in stock!) . . . .
+Cashier Sell Product 1000000010 quantity 20 . . . (Depletes product stock again to demonstrate OrderHistory Later) . . . .
+Cashier Return Product 1000000004 quantity 1 . . . (Will successfuly return product ). . . . .
+Cashier Return Product 1000000019 quantity 4 . . . (This is an invalid upc) . . . . .
+Cashier PriceCheck Product 1000000005 . . . . .
+Cashier SaleCheck Product 1000000005 . . . . . .
+Logout Cashier 1001 . . . . . . .
+Login Manager 4001 . . . . . . . .
+Manager View Daily Profit . . . . . .
+Manager View Daily Revenue . . . . . . . .
+Manager View Daily Cost . . . . . . . .
+Manager View TotalInventory Value . . . . . .
+Manager Take Product 1000000003 OffSale . . . . . . .
+Manager Change Product 1920192192 Sale Period to 2017/08/08-2017/08/11 . . . . .
+Manager View Product 1920192192 PriceHistory . . . . . . .
+Manager View Product 1000000003 PriceHistory . . . . . . .
+Manager Change Product 1920192192 Threshold to 10 . . . . . . .
+Manager View Product 1920192192 Information . . . . . . . .
+Manager Create new Order . . . . . . .
+Logout Manager 4001 . . . . . . .
+Login Reshelver 3001 . . . . . . .
+Reshelver View Product 1000000004 Subsection . . . . .
+Reshelver Change Product 1000000004 Subsection to 3 . . . . .
+Reshelver View Product 1000000007 Aisle . . . . . . .
+Reshelver Change Product 1000000007 Aisle to 8 . . . . . . .
+Reshelver View Product 1000000004 Subsection . . . . . . .
+Reshelver View Product 1000000007 Aisle . . . . . . .
+Reshelver View Product 1000000009 Quantity . . . . . . .
+Logout Reshelver 3001 . . . . . . .
+Login Reciever 2001 . . . . . . . . . . .
+Reciever Recieve New Order . . . . . . .
+Reciever View Product 1000000010 OrderHistory . . . . .
+Reciever View Order 1  . . . . . . .
+Logout Reciever 2001  . . . . . . .

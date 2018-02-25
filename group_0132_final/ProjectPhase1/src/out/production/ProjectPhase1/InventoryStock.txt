@@ -1,0 +1,11 @@
+Bacon,22,pork,meats,1920192192,50,10.99,18.99,5,PresidentsChoice
+Milk,1,dairy,beverages,1000000001,20,2.35,3.55,4,OntariosDariy
+Dumplings,2,frozen food,food,1000000002,69,1.99,2.99,50,ChinaTown
+Fry pan,3,kitchen ware,tools,1000000003,10,30.49,40.49,2,Kitchenaid
+Vacuum,4,cleaning supplies,tools,1000000004,20,5.79,8.29,4,Dyson
+Cat food,5,pet food,food,1000000005,10,4.29,6.39,7,Lawrys
+Pepper,6,spices,seasoning,1000000006,7,1.09,1.59,3,SaucesCo
+Biscuit,7,packaged products,food,1000000007,20,6.19,7.59,5,PepperidgeFarm
+Ice Cream,2,frozen food,food,1000000008,20,4.29,5.59,4,HagenDazz
+Onions,6,roots,produce,1000000009,0,0.59,1.99,5,OntarioFarm
+Dog food,5,pet food,food,1000000010,5,4.99,6.99,2,PetCo

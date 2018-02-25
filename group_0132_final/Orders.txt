@@ -1,0 +1,5 @@
+1, 1920192192, 100,Bacon, PresidentsChoice, 10.99, true
+2, 1000000010, 50,pet food, PetCo, 6.99, true
+3, 1000000009, 60,Onions, OntarioFarm, 0.59, true
+4, 1000000004, 10,Vacuum, Dyson, 190.0, true
+5, 1000000009, 15,Onions, OntarioFarm, 0.59, true

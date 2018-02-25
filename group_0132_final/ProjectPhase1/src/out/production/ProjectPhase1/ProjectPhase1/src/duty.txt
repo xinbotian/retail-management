@@ -1,0 +1,29 @@
+   Yifan Yao:
+   - Wrote classes Order.java, Receiver.java and a large portion of Inventory.java
+   - Wrote Inventory.java with Yihui Yang
+   - Wrote InventoryStock.txt with the proper formats
+   - Wrote javadoc for order.java
+   - Converted the UMLs to pdfs
+   ===============
+   Yihui Yang:
+   - Wrote classes: Manager.java, Reshelver.java.
+   - Wrote DailyOperations.java, Events.txt with Lee-Chia.
+   - Wrote InventoryStock.txt with Yifan.
+   - Wrote some methods to check orders to avoid duplicate code in Inventory.java.
+   - Wrote javadoc in Manager, Reshelver, Receiver, DailyOperations.
+   - Checked, fixed and update javadoc for all classes.
+   - Draw the UML for the project.
+   ===============
+   Lee-Chia Huang:
+    - Wrote Classes: Product, Cashier, Manager(with Yihui), EventHandler, LoggerHelper, DailyOperations
+    - Implemented EventHandler to run Events.txt. Debugged code from all classes in process.
+    - Implemented LoggerHelper to log  by User (Cashier, Manager, Reciever, Reshlever) activity
+      to log.txt and orderLog.txt
+    - Altered all User methods to print out appropriate messages to screen for the User
+    - Did Javadoc/comments for the classes I wrote
+
+   ===============
+   Xinbo Tian:
+   Inventory: implement class inventory
+   wrote javadoc for order class
+   stock: An ArrayList created for store inventories.
